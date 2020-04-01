@@ -1,0 +1,50 @@
+/* Google font families
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+  font-family: 'Alegreya SC', Georgia, "Times New Roman", Times, serif;
+*/
+
+body {
+  background-image: url(images/bg1.png);
+  font-family: 'Roboto', Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Alegreya SC', Georgia, "Times New Roman", Times, serif;
+}
+
+.masthead {
+  min-height: 150px;
+  background-image: url('images/masthead.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.main-pics {
+  border: 5px solid #fff;
+  box-shadow: 3px 3px #d3d3d3;
+  height: 250px;
+  width: 250px;
+}
+
+.social {
+  height: 32px;
+  width: 32px;
+}
+
+.regular-text {
+  font-size: 1.25rem;
+}
+
+.list-group-item {
+  background-color: transparent;
+  border: none;
+}
+
+.footer-text {
+  font-size: .85rem;
+}
+
+a:hover {
+  text-decoration: none;
+}

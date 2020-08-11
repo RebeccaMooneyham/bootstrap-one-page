@@ -1,2 +1,2 @@
 # bootstrap-one-page
-A one-page website made using Bootstrap v4.
+Web Design class project through Arapahoe Community College. I designed and built this colorful one-page website using Bootstrap v4.
